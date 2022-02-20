@@ -1,0 +1,30 @@
+[03-Apr-2019 18:11:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/leiahsol/public_html/fyp/index.php on line 180
+[03-Apr-2019 18:12:55 UTC] PHP Warning:  include(include/config.php): failed to open stream: No such file or directory in /home/leiahsol/public_html/fyp/index.php on line 87
+[03-Apr-2019 18:12:55 UTC] PHP Warning:  include(include/config.php): failed to open stream: No such file or directory in /home/leiahsol/public_html/fyp/index.php on line 87
+[03-Apr-2019 18:12:55 UTC] PHP Warning:  include(): Failed opening 'include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/leiahsol/public_html/fyp/index.php on line 87
+[03-Apr-2019 18:12:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/leiahsol/public_html/fyp/index.php on line 184
+[04-Apr-2019 13:02:23 UTC] PHP Warning:  include(Admin/include/config.php): failed to open stream: No such file or directory in /home/leiahsol/public_html/fyp/index.php on line 87
+[04-Apr-2019 13:02:23 UTC] PHP Warning:  include(Admin/include/config.php): failed to open stream: No such file or directory in /home/leiahsol/public_html/fyp/index.php on line 87
+[04-Apr-2019 13:02:23 UTC] PHP Warning:  include(): Failed opening 'Admin/include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/leiahsol/public_html/fyp/index.php on line 87
+[04-Apr-2019 13:02:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/leiahsol/public_html/fyp/index.php on line 184
+[04-Apr-2019 13:03:19 UTC] PHP Warning:  include(Admin/include/config.php): failed to open stream: No such file or directory in /home/leiahsol/public_html/fyp/index.php on line 87
+[04-Apr-2019 13:03:19 UTC] PHP Warning:  include(Admin/include/config.php): failed to open stream: No such file or directory in /home/leiahsol/public_html/fyp/index.php on line 87
+[04-Apr-2019 13:03:19 UTC] PHP Warning:  include(): Failed opening 'Admin/include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/leiahsol/public_html/fyp/index.php on line 87
+[04-Apr-2019 13:03:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/leiahsol/public_html/fyp/index.php on line 184
+[04-Apr-2019 13:03:23 UTC] PHP Warning:  include(Admin/include/config.php): failed to open stream: No such file or directory in /home/leiahsol/public_html/fyp/index.php on line 87
+[04-Apr-2019 13:03:23 UTC] PHP Warning:  include(Admin/include/config.php): failed to open stream: No such file or directory in /home/leiahsol/public_html/fyp/index.php on line 87
+[04-Apr-2019 13:03:23 UTC] PHP Warning:  include(): Failed opening 'Admin/include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/leiahsol/public_html/fyp/index.php on line 87
+[04-Apr-2019 13:03:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/leiahsol/public_html/fyp/index.php on line 184
+[04-Apr-2019 13:04:01 UTC] PHP Warning:  include(Admin/include/config.php): failed to open stream: No such file or directory in /home/leiahsol/public_html/fyp/index.php on line 87
+[04-Apr-2019 13:04:01 UTC] PHP Warning:  include(Admin/include/config.php): failed to open stream: No such file or directory in /home/leiahsol/public_html/fyp/index.php on line 87
+[04-Apr-2019 13:04:01 UTC] PHP Warning:  include(): Failed opening 'Admin/include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/leiahsol/public_html/fyp/index.php on line 87
+[04-Apr-2019 13:04:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/leiahsol/public_html/fyp/index.php on line 184
+[04-Apr-2019 20:52:42 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/leiahsol/public_html/fyp/index.php on line 110
+[04-Apr-2019 20:52:42 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/leiahsol/public_html/fyp/index.php on line 177
+[04-Apr-2019 20:52:42 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/leiahsol/public_html/fyp/index.php on line 199
+[04-Apr-2019 20:52:42 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/leiahsol/public_html/fyp/index.php on line 227
+[04-Apr-2019 20:52:42 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/leiahsol/public_html/fyp/index.php on line 254
+[04-Apr-2019 21:22:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/leiahsol/public_html/fyp/orderback.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/leiahsol/public_html/fyp/orderback.php on line 22

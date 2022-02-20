@@ -1,0 +1,44 @@
+[04-Apr-2019 12:38:11 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/leiahsol/public_html/Simple_Food/ordersimple/conn.php on line 3
+[04-Apr-2019 12:39:13 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/leiahsol/public_html/ordersimple/conn.php on line 3
+[04-Apr-2019 12:41:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/leiahsol/public_html/ordersimple/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/leiahsol/public_html/ordersimple/index.php on line 10
+[04-Apr-2019 12:41:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/leiahsol/public_html/ordersimple/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/leiahsol/public_html/ordersimple/index.php on line 10
+[04-Apr-2019 12:41:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/leiahsol/public_html/ordersimple/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/leiahsol/public_html/ordersimple/index.php on line 10
+[04-Apr-2019 12:41:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/leiahsol/public_html/ordersimple/order.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/leiahsol/public_html/ordersimple/order.php on line 20
+[04-Apr-2019 12:41:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/leiahsol/public_html/ordersimple/sales.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/leiahsol/public_html/ordersimple/sales.php on line 17
+[04-Apr-2019 12:41:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/leiahsol/public_html/ordersimple/product.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/leiahsol/public_html/ordersimple/product.php on line 13
+[04-Apr-2019 12:41:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/leiahsol/public_html/ordersimple/category.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/leiahsol/public_html/ordersimple/category.php on line 21
+[04-Apr-2019 12:41:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/leiahsol/public_html/ordersimple/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/leiahsol/public_html/ordersimple/index.php on line 10
+[04-Apr-2019 12:42:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/leiahsol/public_html/ordersimple/order.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/leiahsol/public_html/ordersimple/order.php on line 20
+[04-Apr-2019 12:45:00 UTC] PHP Warning:  A non-numeric value encountered in /home/leiahsol/public_html/ordersimple/purchase.php on line 21
+[04-Apr-2019 12:45:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/leiahsol/public_html/ordersimple/purchase.php:21) in /home/leiahsol/public_html/ordersimple/purchase.php on line 31
+[04-Apr-2019 21:53:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/leiahsol/public_html/fyp/Admin/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/leiahsol/public_html/fyp/Admin/index.php on line 21

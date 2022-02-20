@@ -1,0 +1,159 @@
+[03-Apr-2019 17:39:36 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/leiahsol/public_html/fyp/Admin/change-password.php on line 3
+[03-Apr-2019 17:39:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/leiahsol/public_html/fyp/Admin/change-password.php:1) in /home/leiahsol/public_html/fyp/Admin/change-password.php on line 7
+[03-Apr-2019 22:40:11 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 23
+[03-Apr-2019 22:40:11 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 37
+[03-Apr-2019 22:40:11 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 49
+[03-Apr-2019 17:40:22 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/leiahsol/public_html/fyp/Admin/manage-users.php on line 3
+[03-Apr-2019 17:40:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/leiahsol/public_html/fyp/Admin/manage-users.php:1) in /home/leiahsol/public_html/fyp/Admin/manage-users.php on line 7
+[03-Apr-2019 22:40:26 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 23
+[03-Apr-2019 22:40:26 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 37
+[03-Apr-2019 22:40:26 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 49
+[03-Apr-2019 17:40:43 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/leiahsol/public_html/fyp/Admin/manage-users.php on line 3
+[03-Apr-2019 17:40:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/leiahsol/public_html/fyp/Admin/manage-users.php:1) in /home/leiahsol/public_html/fyp/Admin/manage-users.php on line 7
+[03-Apr-2019 22:41:04 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 23
+[03-Apr-2019 22:41:04 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 37
+[03-Apr-2019 22:41:04 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 49
+[03-Apr-2019 22:41:04 Asia/Karachi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/manage-users.php on line 74
+[03-Apr-2019 22:41:44 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 23
+[03-Apr-2019 22:41:44 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 37
+[03-Apr-2019 22:41:44 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 49
+[03-Apr-2019 22:41:44 Asia/Karachi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/manage-users.php on line 74
+[03-Apr-2019 22:42:53 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 23
+[03-Apr-2019 22:42:53 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 37
+[03-Apr-2019 22:42:53 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 49
+[03-Apr-2019 22:43:01 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 23
+[03-Apr-2019 22:43:01 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 37
+[03-Apr-2019 22:43:01 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 49
+[03-Apr-2019 22:43:03 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 23
+[03-Apr-2019 22:43:03 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 37
+[03-Apr-2019 22:43:03 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 49
+[03-Apr-2019 17:43:05 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/leiahsol/public_html/fyp/Admin/category.php on line 3
+[03-Apr-2019 17:43:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/leiahsol/public_html/fyp/Admin/category.php:1) in /home/leiahsol/public_html/fyp/Admin/category.php on line 7
+[03-Apr-2019 22:43:37 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 23
+[03-Apr-2019 22:43:37 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 37
+[03-Apr-2019 22:43:37 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 49
+[03-Apr-2019 22:43:37 Asia/Karachi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/category.php on line 123
+[03-Apr-2019 22:44:24 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 23
+[03-Apr-2019 22:44:24 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 37
+[03-Apr-2019 22:44:24 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 49
+[03-Apr-2019 22:44:28 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 23
+[03-Apr-2019 22:44:28 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 37
+[03-Apr-2019 22:44:28 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 49
+[03-Apr-2019 22:45:01 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 23
+[03-Apr-2019 22:45:01 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 37
+[03-Apr-2019 22:45:01 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 49
+[03-Apr-2019 17:45:03 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 23
+[03-Apr-2019 17:45:03 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 37
+[03-Apr-2019 17:45:03 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 49
+[03-Apr-2019 17:45:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/subcategory.php on line 80
+[03-Apr-2019 17:45:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/subcategory.php on line 129
+[03-Apr-2019 17:45:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 23
+[03-Apr-2019 17:45:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 37
+[03-Apr-2019 17:45:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 49
+[03-Apr-2019 17:45:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/subcategory.php on line 80
+[03-Apr-2019 17:45:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/subcategory.php on line 129
+[03-Apr-2019 17:45:49 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/leiahsol/public_html/fyp/Admin/insert-product.php on line 3
+[03-Apr-2019 17:45:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/leiahsol/public_html/fyp/Admin/insert-product.php:1) in /home/leiahsol/public_html/fyp/Admin/insert-product.php on line 7
+[03-Apr-2019 17:45:52 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 23
+[03-Apr-2019 17:45:52 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 37
+[03-Apr-2019 17:45:52 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 49
+[03-Apr-2019 17:45:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/subcategory.php on line 80
+[03-Apr-2019 17:45:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/subcategory.php on line 129
+[03-Apr-2019 22:46:55 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 23
+[03-Apr-2019 22:46:55 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 37
+[03-Apr-2019 22:46:55 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 49
+[03-Apr-2019 22:46:57 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 23
+[03-Apr-2019 22:46:57 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 37
+[03-Apr-2019 22:46:57 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 49
+[03-Apr-2019 22:48:53 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 21
+[03-Apr-2019 22:48:53 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 34
+[03-Apr-2019 22:48:53 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 47
+[03-Apr-2019 22:49:37 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 21
+[03-Apr-2019 22:49:37 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 34
+[03-Apr-2019 22:49:37 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 47
+[03-Apr-2019 17:50:05 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 21
+[03-Apr-2019 17:50:05 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 34
+[03-Apr-2019 17:50:05 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 47
+[03-Apr-2019 17:50:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/subcategory.php on line 80
+[03-Apr-2019 17:50:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/subcategory.php on line 129
+[03-Apr-2019 17:50:38 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/leiahsol/public_html/fyp/Admin/insert-product.php on line 3
+[03-Apr-2019 17:50:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/leiahsol/public_html/fyp/Admin/insert-product.php:1) in /home/leiahsol/public_html/fyp/Admin/insert-product.php on line 7
+[03-Apr-2019 17:50:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 21
+[03-Apr-2019 17:50:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 34
+[03-Apr-2019 17:50:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 47
+[03-Apr-2019 17:50:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/subcategory.php on line 80
+[03-Apr-2019 17:50:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/subcategory.php on line 129
+[03-Apr-2019 22:52:03 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 21
+[03-Apr-2019 22:52:03 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 34
+[03-Apr-2019 22:52:03 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 47
+[03-Apr-2019 22:52:30 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 21
+[03-Apr-2019 22:52:30 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 34
+[03-Apr-2019 22:52:30 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 47
+[03-Apr-2019 22:52:34 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 21
+[03-Apr-2019 22:52:34 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 34
+[03-Apr-2019 22:52:34 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 47
+[03-Apr-2019 22:52:36 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 21
+[03-Apr-2019 22:52:36 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 34
+[03-Apr-2019 22:52:36 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 47
+[03-Apr-2019 17:52:47 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/leiahsol/public_html/fyp/Admin/insert-product.php on line 3
+[03-Apr-2019 17:52:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/leiahsol/public_html/fyp/Admin/insert-product.php:1) in /home/leiahsol/public_html/fyp/Admin/insert-product.php on line 7
+[03-Apr-2019 22:52:49 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 21
+[03-Apr-2019 22:52:49 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 34
+[03-Apr-2019 22:52:49 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 47
+[03-Apr-2019 22:52:50 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 21
+[03-Apr-2019 22:52:50 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 34
+[03-Apr-2019 22:52:50 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 47
+[03-Apr-2019 22:54:01 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 21
+[03-Apr-2019 22:54:01 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 34
+[03-Apr-2019 22:54:01 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 47
+[03-Apr-2019 22:54:31 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 21
+[03-Apr-2019 22:54:31 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 34
+[03-Apr-2019 22:54:31 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 47
+[03-Apr-2019 22:54:42 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 21
+[03-Apr-2019 22:54:42 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 34
+[03-Apr-2019 22:54:42 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 47
+[03-Apr-2019 22:55:26 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 21
+[03-Apr-2019 22:55:26 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 34
+[03-Apr-2019 22:55:26 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 47
+[03-Apr-2019 22:55:58 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 21
+[03-Apr-2019 22:55:58 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 34
+[03-Apr-2019 22:55:58 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 47
+[03-Apr-2019 22:57:36 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 21
+[03-Apr-2019 22:57:36 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 34
+[03-Apr-2019 22:57:36 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 47
+[03-Apr-2019 23:01:51 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 21
+[03-Apr-2019 23:01:51 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 34
+[03-Apr-2019 23:01:51 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 47
+[03-Apr-2019 23:02:03 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 21
+[03-Apr-2019 23:02:03 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 34
+[03-Apr-2019 23:02:03 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 47
+[03-Apr-2019 18:03:08 UTC] PHP Parse error:  syntax error, unexpected '$category' (T_VARIABLE) in /home/leiahsol/public_html/fyp/Admin/category.php on line 15
+[03-Apr-2019 18:03:31 UTC] PHP Parse error:  syntax error, unexpected '$category' (T_VARIABLE) in /home/leiahsol/public_html/fyp/Admin/category.php on line 15
+[03-Apr-2019 18:03:35 UTC] PHP Parse error:  syntax error, unexpected '$category' (T_VARIABLE) in /home/leiahsol/public_html/fyp/Admin/category.php on line 15
+[03-Apr-2019 23:03:48 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 21
+[03-Apr-2019 23:03:48 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 34
+[03-Apr-2019 23:03:48 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 47
+[03-Apr-2019 23:03:55 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 21
+[03-Apr-2019 23:03:55 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 34
+[03-Apr-2019 23:03:55 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 47
+[03-Apr-2019 23:04:06 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 21
+[03-Apr-2019 23:04:06 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 34
+[03-Apr-2019 23:04:06 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 47
+[03-Apr-2019 23:04:14 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 21
+[03-Apr-2019 23:04:14 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 34
+[03-Apr-2019 23:04:14 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 47
+[03-Apr-2019 23:04:32 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 21
+[03-Apr-2019 23:04:32 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 34
+[03-Apr-2019 23:04:32 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 47
+[03-Apr-2019 23:04:51 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 21
+[03-Apr-2019 23:04:51 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 34
+[03-Apr-2019 23:04:51 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 47
+[03-Apr-2019 23:15:13 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 21
+[03-Apr-2019 23:15:13 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 34
+[03-Apr-2019 23:15:13 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 47
+[03-Apr-2019 23:16:12 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 21
+[03-Apr-2019 23:16:12 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 34
+[03-Apr-2019 23:16:12 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 47
+[03-Apr-2019 23:16:24 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 21
+[03-Apr-2019 23:16:24 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 34
+[03-Apr-2019 23:16:24 Asia/Karachi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/leiahsol/public_html/fyp/Admin/include/sidebar.php on line 47
